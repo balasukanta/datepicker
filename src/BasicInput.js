@@ -2,7 +2,7 @@ export default {
   props: {
     placeholder: {
       type: String,
-      default: 'Pick date'
+      default: 'Date'
     },
     inputClass: {
       type: [Object, Array],
